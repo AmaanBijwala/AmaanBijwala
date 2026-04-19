@@ -5,7 +5,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AmaanBijwala&label=Profile+Views&color=F97316&style=flat-square" alt="Profile Views" />
+<a href="https://amaanbijwala.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-F97316?style=flat-square&logo=githubpages&logoColor=white" />
+</a>
 &nbsp;
 <a href="https://www.linkedin.com/in/amaan-bijwala-836833213">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -32,7 +34,7 @@ public class AmaanBijwala {
     String goal        = "Become a world-class Java architect in the Fintech & AI space";
 
     String[] experience = {
-        "2.5 yrs @ Receivables Exchange of India Ltd (Fintech)",
+        "3+ years in Fintech (Receivables & Cross-Border Remittance)",
         "Currently @ Fable Fintech (Cross-Border Remittance)"
     };
 }
@@ -42,7 +44,7 @@ public class AmaanBijwala {
 
 ## 🚀 About Me
 
-I'm a passionate **Java Developer** with **2.5+ years of hands-on experience** in the Fintech domain — from receivables management platforms to cross-border remittance systems. I thrive on solving complex, high-stakes financial problems through clean, scalable backend architecture.
+I'm a passionate **Java Developer** with **3+ years of hands-on experience** in the Fintech domain — from receivables management platforms to cross-border remittance systems. I thrive on solving complex, high-stakes financial problems through clean, scalable backend architecture.
 
 - 🏦 &nbsp;**Fintech-native** — I've worked deep in the plumbing of financial data pipelines, transaction workflows, and real-time processing systems
 - ⚙️ &nbsp;**Backend-first** — Java, Spring Boot, and enterprise-grade databases are my daily toolkit
@@ -85,16 +87,15 @@ I'm a passionate **Java Developer** with **2.5+ years of hands-on experience** i
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmaanBijwala&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanBijwala&theme=black-ice&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanBijwala&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&langs_count=8" />
+| | Project | Description | Tech Stack |
+|---|---|---|---|
+| 🍽️ | [**Menu Scanner**](https://github.com/AmaanBijwala/menu-scanner) | A SaaS QR-menu platform for restaurants. Owners manage their digital menu via an admin dashboard; customers scan a QR code to view it instantly — no app download needed. Features plan limits, image uploads, Redis caching, and lead capture. | `Java 17` `JSP` `Oracle XE` `Redis` `Tomcat 10` `ZXing` `Maven` |
+| 🛒 | [**SpringBoot E-Commerce**](https://github.com/AmaanBijwala/SpringBoot_E-commerce_Proj) | A full-featured e-commerce backend built with Spring Boot. Covers product management, order handling, and RESTful API design — demonstrating enterprise-grade architecture patterns. | `Java` `Spring Boot` `REST API` `Maven` |
+| 📄 | [**Invoice Processing System**](https://github.com/AmaanBijwala/Invoice-Porcessing-System) | A full-stack invoice management application with a clean approval workflow (Pending → Approved / Rejected). Backend follows a layered Controller → Service → DAO → Model architecture; React frontend provides a responsive UI. | `Java` `Spring Boot` `JPA/Hibernate` `MySQL` `React` |
 
 </div>
 
@@ -121,15 +122,16 @@ I'm a passionate **Java Developer** with **2.5+ years of hands-on experience** i
 
 ---
 
-## 🔥 Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
-| | Project | Description | Tech Stack |
-|---|---|---|---|
-| 🍽️ | [**Menu Scanner**](https://github.com/AmaanBijwala/menu-scanner) | A SaaS QR-menu platform for restaurants. Owners manage their digital menu via an admin dashboard; customers scan a QR code to view it instantly — no app download needed. Features plan limits, image uploads, Redis caching, and lead capture. | `Java 17` `JSP` `Oracle XE` `Redis` `Tomcat 10` `ZXing` `Maven` |
-| 🛒 | [**SpringBoot E-Commerce**](https://github.com/AmaanBijwala/SpringBoot_E-commerce_Proj) | A full-featured e-commerce backend built with Spring Boot. Covers product management, order handling, and RESTful API design — demonstrating enterprise-grade architecture patterns. | `Java` `Spring Boot` `REST API` `Maven` |
-| 📄 | [**Invoice Processing System**](https://github.com/AmaanBijwala/Invoice-Porcessing-System) | A full-stack invoice management application with a clean approval workflow (Pending → Approved / Rejected). Backend follows a layered Controller → Service → DAO → Model architecture; React frontend provides a responsive UI. | `Java` `Spring Boot` `JPA/Hibernate` `MySQL` `React` |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmaanBijwala&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanBijwala&theme=black-ice&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanBijwala&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
@@ -163,7 +165,7 @@ I'm a passionate **Java Developer** with **2.5+ years of hands-on experience** i
 
 ## ⚡ Fun Fact
 
-> I've spent over two years making sure **money moves correctly** — across receivables, remittances, and financial data pipelines. At work, one off-by-one error can mean someone's funds don't settle. That pressure has made me the kind of developer who reads error logs the way others read the news: every morning, before coffee. ☕
+> I've spent **3+ years** making sure **money moves correctly** — across receivables, remittances, and financial data pipelines. At work, one off-by-one error can mean someone's funds don't settle. That pressure has made me the kind of developer who reads error logs the way others read the news: every morning, before coffee. ☕
 
 When I'm not chasing edge cases in financial systems, you'll find me experimenting with AI integrations and quietly plotting how to make Java do things it was never asked to do.
 
